@@ -7,5 +7,6 @@ r/info, r/taskmgr,  r/echo(broken), r/calc, r/brow, r/screen, r/spam(in work), r
 
 Build .exe with pyinstaller
 
-
+```sh
 pyinstaller --noconfirm --onefile --windowed --icon "icon file" --name "APP NAME" --collect-all "discord"  "script dir"
+```
